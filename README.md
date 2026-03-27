@@ -52,13 +52,16 @@ File-Organizer-Java/
 📸 Output Screenshots
 
 🔹 Before Organizing
-    
+
+![Before](https://github.com/user-attachments/assets/6b5d2838-f1a8-4956-ba5c-73789d1a9250)
 
 🔹 After Organizing
 
-
+![After](https://github.com/user-attachments/assets/78411a36-090d-404b-a7eb-c2e4a2a25c5d)
 
 🔹 Console Output
+
+![Output](https://github.com/user-attachments/assets/838e43f8-6e89-45ba-815e-0dcf40c29194)
 
 
 
