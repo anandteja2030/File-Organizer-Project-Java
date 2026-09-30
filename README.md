@@ -9,7 +9,7 @@ Features
 * 🖼️ Supports Images, Videos, Audio, Documents
 * 📊 Displays total files moved
 * 📁 Creates folders automatically if not present
-* ⚡ Fast and lightweight
+* ⚡ Fast and lightweight  
 
 
 Technologies Used
